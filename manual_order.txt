@@ -1,0 +1,2 @@
+{"position_direction":"Sell", "triger_count": "2", "triger1": "0.2760148u", "triger2": "0.2760148d", "close1": "0.2733", "priority": "12", "leverage": "10", "stop_lose": "0.2776", "cancel_triger": "0.2776u", "cancel_triger2": "0.2621d", "cancel_triger_count": "2", "Pair": "XRPUSD"}
+{"position_direction":"Sell", "triger_count": "2", "triger1": "0.2874262u", "triger2": "0.2874262d", "close1": "0.2847", "priority": "12", "leverage": "10", "stop_lose": "0.2985", "cancel_triger": "0.2985296u", "cancel_triger2": "0.2621d", "cancel_triger_count": "2", "Pair": "XRPUSD"}

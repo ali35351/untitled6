@@ -1,0 +1,1 @@
+{"position_direction":"Sell", "triger_count": "2", "triger1": "0.3004u", "triger2": "0.3004d", "close1": "0.2985", "priority": "12", "leverage": "10", "stop_lose": "0.3025", "cancel_triger": "0.3059u", "cancel_triger2": "0.2915d", "cancel_triger_count": "2", "Pair": "XRPUSD"}

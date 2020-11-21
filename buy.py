@@ -1,0 +1,3 @@
+order='{"position_direction": "Sell", "triger_count": "2", "triger1": "0.27372u", "triger2": "0.27372d", "triger3": "price3", "triger4": "price4", "close1": "0.2674", "close2": "15151", "open1": "15151", "open2": "price9", "priority": "12", "leverage": "10", "stop_lose": "0.2787", "cancel_triger": "0.28305u", "cancel_triger2": "0.2509d", "cancel_triger_count": "2", "Pair": "XRPUSD"}'+'\n'
+with open('btc_orders.txt','w') as f:
+    f.write(order)

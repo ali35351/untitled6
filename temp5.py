@@ -1,0 +1,2 @@
+t=dict([])
+print(t)
